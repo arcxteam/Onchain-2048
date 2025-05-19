@@ -1,4 +1,4 @@
-# Worldcoin 2048: A Familiar Favorite, Powered by Worldcoin
+# Game 2048: A Familiar Favorite, Powered by Onchain game - Credit 0xgr3y
 
 **Experience the classic 2048 game, now integrated with the Worldcoin ecosystem for simple, user-friendly donations.**  
 
