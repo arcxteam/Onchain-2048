@@ -12,14 +12,39 @@
 
 <img src="https://github.com/user-attachments/assets/b3b211ac-9ef6-4f33-81b3-ad8a5c1c9a57" width="250" height="auto"/>
 
-### World Coin Mini Kit Integration:
+# 🕹️ 2048
 
-* **Simple Donations:**  A convenient "Donate to Me" button makes it easy to support the development of this and future Worldcoin projects. 
-* **Using Mini Kit:** This demonstrates the potential of World ID for seamless, user-friendly donation processes.
+Implementation of the famous 2048 game in Next.js. You can play it
+[here](https://2048-zeta-neon.vercel.app/).
 
-### Check out the donation modal powered by Worldcoin Mini Kit:
+## Pre-requisites
 
-<img src="https://github.com/user-attachments/assets/fd00ee02-151e-4f40-9dbd-5d046445c8c6" width="250" height="auto"/>
+- [pnpm](https://pnpm.io/)
+- [Node.js](https://nodejs.org/en/) (version 16 or higher)
+
+## Installation
+
+Clone the repository. Make sure to have pnpm installed. If you don't have it,
+run the following command:
+
+```bash
+npm install -g pnpm
+```
+
+Then, install the dependencies and run the development server:
+
+```bash
+pnpm install
+pnpm dev
+```
+
+Finally, open your browser and go to http://localhost:3000 to play the game.
+
+## Controls
+
+- The game is played with the arrow keys ( &larr; &uarr; &darr; &rarr; ) .
+- If you want to play on your phone, you can use the swipe gestures.
+
 
 # Behind the Scenes:
 
